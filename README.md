@@ -12,6 +12,8 @@ Ter759@utulsa.edu
 
 ## Skills and Certifications
 
+Please click on the drop down arrows below for more information on each skillset.
+
 
 <details><summary>Amazon Web Services (AWS)</summary>
   
