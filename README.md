@@ -18,6 +18,7 @@ Please click on the drop down arrows below for more information on each skillset
 <details><summary>Amazon Web Services (AWS)</summary>
   
 <h5> Description</h5>
+Add images or graphs if applicable
   
 </details>
 <br>
@@ -54,6 +55,12 @@ Please click on the drop down arrows below for more information on each skillset
 </details>
 <br>
 
-
+<details><summary>Certifications if any</summary>
+  
+<h5> Description</h5>
+Also add in pictures proving completion
+  
+</details>
+<br>
 
 
