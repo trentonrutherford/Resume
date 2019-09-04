@@ -6,6 +6,8 @@ Contact Information:
 Ter759@utulsa.edu
 832-338-2862
 
+
+
 Technical Skills:
 
 Amazon Web Services (AWS)
