@@ -3,6 +3,14 @@ Hello! My name is Trenton Rutherford and I am currently a senior at the Universi
 
 <img src="headshot.jpg" alt="Profile picture" width="275" height="200" border-radius="50">
 
+<h2> Education</h2>
+
+University of Tulsa - Tulsa, OK
+
+Kingston University - London, United Kingdom 
+
+Major: Computer Information Systems 
+
 #### Contact Information
 
 Ter759@utulsa.edu
