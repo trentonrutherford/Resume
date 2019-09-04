@@ -5,7 +5,7 @@
 
 
 
-Hello! My name is Trenton Rutherford and I am currently a senior at the University of Tulsa studying Computer Information Systems. This page will demonstrate some of the technical skills and knowledge I have mastered during my studies here.
+<h2>Hello! My name is Trenton Rutherford and I am currently a senior at the University of Tulsa studying Computer Information Systems. This page will demonstrate some of the technical skills and knowledge I have mastered during my studies here.</h2>
 
 <br>
 <br>
