@@ -12,13 +12,36 @@ Ter759@utulsa.edu
 
 ## Skills and Certifications
 
-Amazon Web Services (AWS)
 
-GitHub
+<details><summary>Amazon Web Services (AWS)</summary>
+  
+</details>
+<br>
+<br>
+  
+<details><summary>GitHub</summary>
+  
+</details>
+<br>
+<br>
 
-Linux
+<details><summary>Linux</summary>
+  
+</details>
+<br>
+<br>
+  
+<details><summary>Power BI</summary>
+  
+</details>
+<br>
+<br>
+  
+<details><summary>PowerShell</summary>
+  
+</details>
+<br>
+<br>
 
-Power BI
 
-Powershell
 
