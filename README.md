@@ -1,9 +1,14 @@
 # Technical Skills Resume
 
 
-<img src="headshot.jpg" alt="Profile picture" width="275" height="200" border-radius="50" align="left">
+<img src="headshot.jpg" alt="Profile picture" width="240" height="175" border-radius="50" align="left">
 
-Hello! My name is Trenton Rutherford and I am currently a senior at the University of Tulsa studying Computer Information Systems. This page will demonstrate some of the technical skills I have mastered in my time here in Tulsa.
+
+
+Hello! My name is Trenton Rutherford and I am currently a senior at the University of Tulsa studying Computer Information Systems. This page will demonstrate some of the technical skills and knowledge I have mastered during my studies here.
+
+<br>
+<br>
 
 
 
