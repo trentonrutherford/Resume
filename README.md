@@ -3,7 +3,7 @@ Hello! My name is Trenton Rutherford and I am currently a senior at the Universi
 
 
 
-### Contact Information
+#### Contact Information
 
 Ter759@utulsa.edu
 
