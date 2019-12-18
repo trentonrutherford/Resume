@@ -34,7 +34,7 @@ Please click on the drop down arrows below for more information on each skillset
 <details>
 <summary>Github</summary>
 <br/>
-<span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
+<span style="font-family:futura; font-size:1.5em;">**Skills & Training**</span>
 <br/>
 Using Github, I was able to completed a few different courses such as First Day on Github and First Week on Github (pictured below). Both of these helped build a familarity with Github and understand how to create and manage pull requests, and how to create and host my own pages. 
 
@@ -138,7 +138,7 @@ I also was able to do an analysis of my own called Retail Analysis and after goi
   <li>Lambda</li>
   <li>General AWS Account Management</li>
 </ul> 
-Proof of completion:
+
 <img src="AWSEssentials.PNG">
  
 After completing the AWS Essentials course, I was able to do a few tutiorials that covered IPSec and Open VPN server builds on both Digital Ocean and AWS. 
