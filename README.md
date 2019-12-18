@@ -69,7 +69,7 @@ To practice the skills I learned in these courses, I created and maintained this
   
 
 <details>
-<summary>>PowerBI</span></summary>
+<summary>PowerBI</span></summary>
 <br/> 
 <span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
 <br/>
