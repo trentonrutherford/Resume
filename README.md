@@ -45,6 +45,7 @@ Using Github, I was able to completed a few different courses such as First Day 
 <img src="First Week on Github.png" alt="Week 1">
 <br/>
 <br/>
+</details>
 
 <details>
 <summary>Linux</summary>
