@@ -35,6 +35,14 @@ Please click on the drop down arrows below for more information on each skillset
 <details><summary>Amazon Web Services (AWS)</summary>
   
 <h5> Description</h5>
+  
+</details>
+<br>
+
+  
+<details><summary>GitHub</summary>
+
+<h5> Description</h5>  
 <br>
 <ul>
 <li>Fundamentals of distributed version control including creating, reviewing and approving pull requests.
@@ -63,15 +71,6 @@ I completed the following courses in the <a href="https://lab.github.com/courses
 <li>Create a release based workflow</li>
 </ul>
 <br>
-  
-</details>
-<br>
-
-  
-<details><summary>GitHub</summary>
-
-<h5> Description</h5>  
-  
 </details>
 <br>
 
