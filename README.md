@@ -14,16 +14,16 @@
 
 <h2> Education</h2>
 
-University of Tulsa - Tulsa, OK    <img src="kingston logo.jpg" alt="kingston logo" align="right" height="215px" width="280px">    <img src="utulsa.jpg" alt="tulsa logo" align="right">
+University of Tulsa - Tulsa, OK    
 
 Kingston University - London, United Kingdom 
+<img src="kingston logo.jpg" alt="kingston logo" align="right" height="190px" width="260px">    <img src="utulsa.jpg" alt="tulsa logo" align="right">
 
 Major: Computer Information Systems 
 
 #### Contact Information
 
 Ter759@utulsa.edu
-
 832-338-2862
 
 
