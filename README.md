@@ -104,7 +104,7 @@ I completed the following courses in the <a href="https://lab.github.com/courses
    <li>This training culminated with me creating a custom dashboard from a set of assigned data. This dashboard was then shared to be used on various platforms. From this course, I gained an overall understanding of how to manipulate and vizualize data for the purpose of creating an effective and efficient dashboard.</li>
    <li> <a href="https://youtu.be/HLRVrwNOCmI">Dashboard Video </a>  </li>
   </ul>
-<img src="Retail Analysis Dashboard.png" alt="Dash">
+<img src="Retail Analysis Dashboard.PNG" alt="Dash">
 <br>
 <br>
 </details>
@@ -115,9 +115,9 @@ I completed the following courses in the <a href="https://lab.github.com/courses
   
 <h5> Description</h5>
 
-<img src="AA Applying Bots.png" alt="Applying bots">
-<img src="AA Managing RPA Lifecycle.png" alt="AA Managing RPA">
-<img src="Automation Anywhere.png" alt="AA">
+<img src="AA Applying Bots.PNG" alt="Applying bots">
+<img src="AA Managing RPA Lifecycle.PNG" alt="AA Managing RPA">
+<img src="Automation Anywhere.PNG" alt="AA">
 </details>
 <br>
 
