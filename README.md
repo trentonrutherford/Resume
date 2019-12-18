@@ -120,8 +120,28 @@ I also was able to do an analysis of my own called Retail Analysis and after goi
 <br/> 
 <span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
 <br/>
-
-  
-</details>
+ 
+ I completed the AWS Essentials course on Linux Academy as an introduction to core AWS services. I created and managed the security of my own AWS account using IAM and got exposure to many of the other features AWS has to offer such as bulk storage and object versioning/lifecycling in S3, SQL/non-SQL based database services in RDS and DynamoDB (respectively), and cloud computing instances with EC2. Through the training's use of an overarching example (referred to as "Project Omega"), I also understand how these services can be used in conjunction with one another to create solutions to a vast array of professional issues. Here is a list of the courses I took:    
+ <ul>
+  <li>Identity and Access Management (IAM)</li>
+  <li>Virtual Private Cloud (VPC)</li>
+  <li>Elastic Cloud Compute (EC2)</li>
+  <li>Storage Services (S3)</li>
+  <li>Databases</li>
+  <li>Elastic Load Balancer (ELB)</li>
+  <li>Auto Scaling</li>
+  <li>Route 53</li>
+  <li>Lambda</li>
+  <li>General AWS Account Management</li>
+</ul> 
+Proof of completion:
+<img src="AWS Essentials.PNG">
+ 
+After completing the AWS Essentials course, I configured a VPN with AWS, deploying on EC2.
+<img src="AlgoVPN.PNG">
+ 
 <br/>
+<br/>
+</details>
+
 
