@@ -71,6 +71,7 @@ Using Github, I was able to completed a few different courses such as First Day 
   <li>Special Directories and Files</li>
 
   <img src="Linux Certification.PNG" alt="confirm">
+  <img src="AlgoVPN.PNG">
   
 <br>
 </details>
@@ -140,7 +141,7 @@ I also was able to do an analysis of my own called Retail Analysis and after goi
  
 After completing the AWS Essentials course, I was able to do a few tutiorials that covered IPSec and Open VPN server builds on both Digital Ocean and AWS. 
 
-<img src="AlgoVPN.PNG">
+
  <img src="AWS VPN.png">
  
 <br>
