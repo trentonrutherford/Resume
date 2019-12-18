@@ -123,7 +123,7 @@ I also was able to do an analysis of my own called Retail Analysis and after goi
 <span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
 
  
- I completed the AWS Essentials course on Linux Academy as an introduction to core AWS services. I created and managed the security of my own AWS account using IAM and got exposure to many of the other features AWS has to offer such as bulk storage and object versioning/lifecycling in S3, SQL/non-SQL based database services in RDS and DynamoDB (respectively), and cloud computing instances with EC2. Through the training's use of an overarching example (referred to as "Project Omega"), I also understand how these services can be used in conjunction with one another to create solutions to a vast array of professional issues. Getting an understanding and familairity with AWS is really important because of how big it is and the fact that almost every big company is using it in one way or another.
+ I completed the AWS Essentials course on Linux Academy as an introduction to core AWS services. I created and managed the security of my own AWS account using IAM and got exposure to many of the other features AWS has to offer such as bulk storage and object versioning/lifecycling in S3, SQL/non-SQL based database services in RDS and DynamoDB (respectively), and cloud computing instances with EC2. Through the training's use of an overarching example (referred to as "Project Omega"), I also understand how these services can be used in conjunction with one another to create solutions to a vast array of professional issues. Getting an understanding and familairity with AWS is really important because of how big it is and the fact that almost every big company is using it in one way or another. After completing the AWS Essentials course, I was able to do a few tutiorials that covered IPSec and Open VPN server builds on both Digital Ocean and AWS. 
  Here are the main topics covered in the course:    
  <ul>
   <li>Identity and Access Management (IAM)</li>
@@ -140,10 +140,10 @@ I also was able to do an analysis of my own called Retail Analysis and after goi
 
 <img src="AWSEssentials.PNG">
  
-After completing the AWS Essentials course, I was able to do a few tutiorials that covered IPSec and Open VPN server builds on both Digital Ocean and AWS. 
 
 
- <img src="AWS VPN.png">
+
+
  
 
 
