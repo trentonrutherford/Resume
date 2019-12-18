@@ -78,7 +78,16 @@ I completed the following courses in the <a href="https://lab.github.com/courses
 <details><summary>Linux</summary>
   
 <h5> Description</h5>
-  
+<br>
+  <ul>
+  <li> On LinuxAcademy.com, I completed the course LPI Linux Essentials. Through this course, I learned the basics of the Linux comamnd lines including beginner commands along with their respective parameters, commands to change directories and modify files, commands to view system information, and commands to view and alter users and groups along with permissions. </li>
+  <li>Also on Linux, I used Virtual Box and Ubuntu to create my own VPN using Algo VPN scripts. I followed a tuturoial provided by trailofbits on GitHub. Through the tutorial provided, I was able to deploy an Algo server, configure VPN clients, create/delete users, and set up a tunnel by using WireGaurd.</li>
+  </ul>
+<img src="Linux.png" alt="cert">
+  <br>
+  <img src="Linux Certification.png" alt="confirm">
+<br>
+<br>
 </details>
 <br>
 
@@ -86,24 +95,33 @@ I completed the following courses in the <a href="https://lab.github.com/courses
 <details><summary>Power BI</summary>
   
 <h5> Description</h5>
-  
+<br>
+<ul>
+  <li> I completed the course Analyzing and Visualizing Data with Power BI on edX.org (below is the course overview). By completing this course, I learned how to upload and manipulate data, define relationships of data and edit queries. I also learned to connect to external data from sources like SQL on Azure.</li>
+  </ul>
+<img src="Power BI EdEx Screenshot.png" alt="BI">
+ <ul>
+   <li>This training culminated with me creating a custom dashboard from a set of assigned data. This dashboard was then shared to be used on various platforms. From this course, I gained an overall understanding of how to manipulate and vizualize data for the purpose of creating an effective and efficient dashboard.</li>
+   <li> <a href="https://youtu.be/HLRVrwNOCmI">Dashboard Video </a>  </li>
+  </ul>
+<img src="Retail Analysis Dashboard.png" alt="Dash">
+<br>
+<br>
 </details>
 <br>
 
   
-<details><summary>PowerShell</summary>
+<details><summary>Automation Anywhere</summary>
   
 <h5> Description</h5>
-  
+
+<img src="AA Applying Bots.png" alt="Applying bots">
+<img src="AA Managing RPA Lifecycle.png" alt="AA Managing RPA">
+<img src="Automation Anywhere.png" alt="AA">
 </details>
 <br>
 
-<details><summary>Certifications if any</summary>
-  
-<h5> Description</h5>
-Also add in pictures proving completion
-  
-</details>
+
 <br>
 
 
