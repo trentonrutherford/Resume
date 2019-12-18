@@ -74,7 +74,7 @@ Also on Linux, I used Virtual Box and Ubuntu to create my own VPN using Algo VPN
 
 
 
-## PowerBI
+<h1>PowerBI</h1>
 
 I was able to take an online course using edX called Analyzing and Visualizing Data with Power BI. It covered the topic list pictured below and taaught me how Power BI is used in the workplace and why it is such an important tool. I was able to figure out how to import data into Power BI and what the interface of the application looks like. After learning the basics, I was able to get in some real practice as well. The courses I completed are listed below. 
     
@@ -91,7 +91,7 @@ I also was able to do an analysis of my own called Retail Analysis and after goi
 
 
 
-## Automation Anywhere
+<h2>Automation Anywhere</h2>
 
 
 <ul>
