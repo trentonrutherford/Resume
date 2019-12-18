@@ -32,14 +32,6 @@ Ter759@utulsa.edu
 Please click on the drop down arrows below for more information on each skillset.
 
 
-<details><summary>Amazon Web Services (AWS)</summary>
-  
-<h5> Description</h5>
-  
-</details>
-<br>
-
-  
 <details><summary>GitHub</summary>
 
 <h5> Description</h5>  
@@ -119,5 +111,10 @@ I completed the following courses in the <a href="https://lab.github.com/courses
 </details>
 <br>
 
-
+<details><summary>Amazon Web Services (AWS)</summary>
+  
+<h5> Description</h5>
+  
+</details>
 <br>
+
