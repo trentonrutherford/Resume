@@ -30,7 +30,6 @@ Ter759@utulsa.edu
 
 
 
-<details>
 <summary>Github</summary>
 <br>
 <span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
@@ -44,9 +43,11 @@ Using Github, I was able to completed a few different courses such as First Day 
 <img src="First Week on Github.png" alt="Week 1">
 
 <br/>
-</details>
 
-<details>
+
+
+
+
 <summary>Linux</summary>
 <br>
 <span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
@@ -74,7 +75,10 @@ Using Github, I was able to completed a few different courses such as First Day 
   
 Also on Linux, I used Virtual Box and Ubuntu to create my own VPN using Algo VPN scripts. I followed a tuturoial on GitHub to deploy an Algo server, configure VPN clients, create/delete users, and set up a tunnel by using WireGaurd.
   <img src="AlgoVPN.PNG">
-</details>
+
+
+
+
 
 <details>
 <summary>PowerBI</summary>
