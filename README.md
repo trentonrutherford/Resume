@@ -32,7 +32,7 @@ Please click on the drop down arrows below for more information on each skillset
 
 <details>
 <summary>Github</summary>
-<br>
+
 <span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
 
 Using Github, I was able to completed a few different courses such as First Day on Github and First Week on Github (pictured below). Both of these helped build a familarity with Github and understand how to create and manage pull requests, and how to create and host my own pages. 
@@ -42,13 +42,13 @@ Using Github, I was able to completed a few different courses such as First Day 
 <img src="First Day on GitHub.png" alt="Day 1">
 
 <img src="First Week on Github.png" alt="Week 1">
-<br>
+
 
 </details>
 
 <details>
 <summary>Linux</summary>
-<br> 
+
 <span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
 
 
@@ -75,13 +75,12 @@ Using Github, I was able to completed a few different courses such as First Day 
 Also on Linux, I used Virtual Box and Ubuntu to create my own VPN using Algo VPN scripts. I followed a tuturoial on GitHub to deploy an Algo server, configure VPN clients, create/delete users, and set up a tunnel by using WireGaurd.
   <img src="AlgoVPN.PNG">
   
-<br>
 </details>
   
 
 <details>
 <summary>PowerBI</summary>
-<br> 
+
 <span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
 
 
@@ -97,14 +96,14 @@ I was able to take an online course using edX called Analyzing and Visualizing D
 <img src="Retail Analysis Screenshot.PNG" alt="Power BI Dashboard">
 I also was able to do an analysis of my own called Retail Analysis and after going through all of the data provided, I came up with my own dashboard. Below is a link to a video that has a deeper explanaition for my Dashboard and why I did what I did. 
  <li> <a href="https://www.youtube.com/watch?v=SpcjCcQsoU4&t=2s">Dashboard Video </a>  </li>
-<br>
+
 
 
 
 </details> 
   
 <details><summary>Automation Anywhere</summary>
-<br> 
+
 <span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
 
 
@@ -117,10 +116,10 @@ I also was able to do an analysis of my own called Retail Analysis and after goi
  </ul>
 <img src="AA Managing RPA Lifecycle.PNG" alt="AA Managing RPA">
 </details>
-<br>
+
 
 <details><summary>Amazon Web Services (AWS)</summary>
-<br> 
+
 <span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
 
  
@@ -146,7 +145,7 @@ After completing the AWS Essentials course, I was able to do a few tutiorials th
 
  <img src="AWS VPN.png">
  
-<br>
+
 
 </details>
 
