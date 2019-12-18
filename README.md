@@ -14,7 +14,7 @@
 
 <h2> Education</h2>
 
-University of Tulsa - Tulsa, OK
+University of Tulsa - Tulsa, OK                                      <img src="utulsa.jpg" alt="tulsa logo">
 
 Kingston University - London, United Kingdom 
 
