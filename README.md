@@ -30,7 +30,7 @@ Ter759@utulsa.edu
 
 
 
-## Github
+<h2>Github</h2>
 
 Using Github, I was able to completed a few different courses such as First Day on Github and First Week on Github (pictured below). Both of these helped build a familarity with Github and understand how to create and manage pull requests, and how to create and host my own pages. 
 
@@ -46,7 +46,7 @@ Using Github, I was able to completed a few different courses such as First Day 
 
 
 
-## Linux
+<h2>Linux</h2>
 
  On LinuxAcademy, I completed the course LPI Linux Essentials. Through this course, I learned the basics of the Linux comamnd lines including beginner commands along with their respective parameters, commands to change directories and modify files, commands to view system information, and commands to view and alter users and groups along with permissions. 
 
@@ -74,7 +74,7 @@ Also on Linux, I used Virtual Box and Ubuntu to create my own VPN using Algo VPN
 
 
 
-<h1>PowerBI</h1>
+<h2>PowerBI</h2>
 
 I was able to take an online course using edX called Analyzing and Visualizing Data with Power BI. It covered the topic list pictured below and taaught me how Power BI is used in the workplace and why it is such an important tool. I was able to figure out how to import data into Power BI and what the interface of the application looks like. After learning the basics, I was able to get in some real practice as well. The courses I completed are listed below. 
     
@@ -106,7 +106,7 @@ I also was able to do an analysis of my own called Retail Analysis and after goi
 
 
 
-## Amazon Web Services (AWS)
+<h2>Amazon Web Services (AWS)</h2>
 
  I completed the AWS Essentials course on Linux Academy as an introduction to core AWS services. I created and managed the security of my own AWS account using IAM and got exposure to many of the other features AWS has to offer such as bulk storage and object versioning/lifecycling in S3, SQL/non-SQL based database services in RDS and DynamoDB (respectively), and cloud computing instances with EC2. Through the training's use of an overarching example (referred to as "Project Omega"), I also understand how these services can be used in conjunction with one another to create solutions to a vast array of professional issues. Getting an understanding and familairity with AWS is really important because of how big it is and the fact that almost every big company is using it in one way or another. After completing the AWS Essentials course, I was able to do a few tutiorials that covered IPSec and Open VPN server builds on both Digital Ocean and AWS. 
  Here are the main topics covered in the course:    
