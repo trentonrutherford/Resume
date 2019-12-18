@@ -67,23 +67,30 @@ To practice the skills I learned in these courses, I created and maintained this
 <br>
 
   
-<details><summary>Power BI</summary>
 
-<br>
-<ul>
-  <li> I was able to take an online course using edX called Analyzing and Visualizing Data with Power BI. It covered the topic list pictured below and taaught me how Power BI is used in the workplace and why it is such an important tool.</li>
-  </ul>
-<img src="Power BI EdEx Screenshot.png" alt="BI">
+<details>
+<summary>>PowerBI</span></summary>
+<br/> 
+<span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
+<br/>
+
+I was able to take an online course using edX called Analyzing and Visualizing Data with Power BI. It covered the topic list pictured below and taaught me how Power BI is used in the workplace and why it is such an important tool. I was able to figure out how to import data into Power BI and what the interface of the application looks like. After learning the basics, I was able to get in some real practice as well. The courses I completed are listed below. 
+    
  <ul>
-   <li>This training gave me first hand experience at creating dashboards. Below is a screenshot of the work I was able to do and the video link is a more in depth explanaition of the different aspects of my dashboard. .</li>
-   <li> <a href="https://www.youtube.com/watch?v=SpcjCcQsoU4&t=2s">Dashboard Video </a>  </li>
-  </ul>
+  <li>Managing Data Transformations on the PowerBI Desktop Application</li>
+  <li>Desktop Modeling</li>
+  <li>Data Visualizations</li>
+  <li>Online PowerBI Service</li>
+  <li>Excel Data Imports and Direct Connectivity</li>
+</ul> 
 <img src="Retail Analysis Screenshot.PNG" alt="Power BI Dashboard">
-<br>
-<br>
-</details>
-<br>
+I also was able to do an analysis of my own called Retail Analysis and after going through all of the data provided, I came up with my own dashboard. Below is a link to a video that has a deeper explanaition for my Dashboard and why I did what I did. 
+ <li> <a href="https://www.youtube.com/watch?v=SpcjCcQsoU4&t=2s">Dashboard Video </a>  </li>
+<br/>
+<br/>
 
+
+</details> 
   
 <details><summary>Automation Anywhere</summary>
   
