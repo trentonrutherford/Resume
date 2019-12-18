@@ -40,16 +40,11 @@ Using Github, I was able to completed a few different courses such as First Day 
 
 
 
-<img src="First Day on Github.png" alt="Day 1">
+<img src="First Day on GitHub.png" alt="Day 1">
 
 <img src="First Week on Github.png" alt="Week 1">
 <br/>
 <br/>
-<span style="font-family:futura; font-size:1.5em;">Projects & Experience</span>
-<br/>
-To practice the skills I learned in these courses, I created and maintained this technical skills resume on Github using markdown and html. This leveraged different skills such as html programming, uploading and inserting images, and commiting updates to the master branch. Most of my focus in creating this template was placed on taking the Jekyll template and customizing it. Github has a set of standard themes for webpages, so I was able to find the html file for the "architect" theme and make personal changes from there such as: adding my headshot and personal information to the sidebar, changing the default header (my repository name) to a customized title and subtitle, and formatting text within the body of the page.
-
-</details> 
 
 <details>
 <summary>Linux</summary>
@@ -76,8 +71,7 @@ To practice the skills I learned in these courses, I created and maintained this
   <li>Special Directories and Files</li>
   <br>
   <img src="Linux Certification.PNG" alt="confirm">
-<br/>
-<br/>
+
 </details>
   
 
@@ -106,7 +100,9 @@ I also was able to do an analysis of my own called Retail Analysis and after goi
 </details> 
   
 <details><summary>Automation Anywhere</summary>
-  
+<br/> 
+<span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
+<br/>
 
 <ul>
 <li> For this task I was able to take a closer look at robotic proces automation. I was able to learn about the different types of bots out there and the different use cases for each. Some of the other topics covered FEasibility Aanalaysis, ROI Analysis, and Bot Development. I never realized how much work is put into figuring out the requirments and justifications of a bot before it can be worked on</li>
@@ -117,12 +113,14 @@ I also was able to do an analysis of my own called Retail Analysis and after goi
  </ul>
 <img src="AA Managing RPA Lifecycle.PNG" alt="AA Managing RPA">
 </details>
-<br>
+<br/>
 
 <details><summary>Amazon Web Services (AWS)</summary>
-  
+<br/> 
+<span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
+<br/>
 
   
 </details>
-<br>
+<br/>
 
