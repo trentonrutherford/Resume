@@ -33,9 +33,9 @@ Please click on the drop down arrows below for more information on each skillset
 
 <details>
 <summary>Github</summary>
-<br/>
-<span style="font-family:futura; font-size:1.5em;">**Skills & Training**</span>
-<br/>
+<br>
+<span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
+
 Using Github, I was able to completed a few different courses such as First Day on Github and First Week on Github (pictured below). Both of these helped build a familarity with Github and understand how to create and manage pull requests, and how to create and host my own pages. 
 
 
@@ -44,14 +44,14 @@ Using Github, I was able to completed a few different courses such as First Day 
 
 <img src="First Week on Github.png" alt="Week 1">
 <br/>
-<br/>
+
 </details>
 
 <details>
 <summary>Linux</summary>
 <br/> 
 <span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
-<br/>
+
 
 
  On LinuxAcademy, I completed the course LPI Linux Essentials. Through this course, I learned the basics of the Linux comamnd lines including beginner commands along with their respective parameters, commands to change directories and modify files, commands to view system information, and commands to view and alter users and groups along with permissions. 
@@ -74,7 +74,7 @@ Using Github, I was able to completed a few different courses such as First Day 
   <img src="Linux Certification.PNG" alt="confirm">
   
 <br/>
-<br/>
+
     
 </details>
   
