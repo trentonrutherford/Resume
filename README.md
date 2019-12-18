@@ -88,12 +88,12 @@ I completed the following courses in the <a href="https://lab.github.com/courses
 <h5> Description</h5>
 <br>
 <ul>
-  <li> I completed the course Analyzing and Visualizing Data with Power BI on edX.org (below is the course overview). By completing this course, I learned how to upload and manipulate data, define relationships of data and edit queries. I also learned to connect to external data from sources like SQL on Azure.</li>
+  <li> I was able to take an online course using edX called Analyzing and Visualizing Data with Power BI. It covered the topic list pictured below and taaught me how Power BI is used in the workplace and why it is such an important tool.</li>
   </ul>
 <img src="Power BI EdEx Screenshot.png" alt="BI">
  <ul>
-   <li>This training culminated with me creating a custom dashboard from a set of assigned data. This dashboard was then shared to be used on various platforms. From this course, I gained an overall understanding of how to manipulate and vizualize data for the purpose of creating an effective and efficient dashboard.</li>
-   <li> <a href="https://youtu.be/HLRVrwNOCmI">Dashboard Video </a>  </li>
+   <li>This training gave me first hand experience at creating dashboards. Below is a screenshot of the work I was able to do and the video link is a more in depth explanaition of the different aspects of my dashboard. .</li>
+   <li> <a href="https://www.youtube.com/watch?v=SpcjCcQsoU4&t=2s">Dashboard Video </a>  </li>
   </ul>
 <img src="Retail Analysis Screenshot.PNG" alt="Power BI Dashboard">
 <br>
@@ -105,8 +105,13 @@ I completed the following courses in the <a href="https://lab.github.com/courses
 <details><summary>Automation Anywhere</summary>
   
 <h5> Description</h5>
-
+<ul>
+<li> For this task I was able to take a closer look at robotic proces automation. I was able to learn about the different types of bots out there and the different use cases for each. Some of the other topics covered FEasibility Aanalaysis, ROI Analysis, and Bot Development. I never realized how much work is put into figuring out the requirments and justifications of a bot before it can be worked on</li>
+  </ul>
 <img src="AA Applying Bots.PNG" alt="Applying bots">
+<ul>
+  <li> This course also covered Robotic Process Management. The focus on this was mainly what it was like to be in charge of an RPA project. It talked about how a manager should be preparing for and understanding the needs of the project. It is very important to full understand what is being built and why it is necessary before any development can start. </li>
+ </ul>
 <img src="AA Managing RPA Lifecycle.PNG" alt="AA Managing RPA">
 </details>
 <br>
