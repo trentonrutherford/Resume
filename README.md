@@ -43,7 +43,7 @@ Using Github, I was able to completed a few different courses such as First Day 
 
 <img src="First Week on Github.png" alt="Week 1">
 
-</br>
+<br/>
 </details>
 
 <details>
@@ -74,11 +74,7 @@ Using Github, I was able to completed a few different courses such as First Day 
   
 Also on Linux, I used Virtual Box and Ubuntu to create my own VPN using Algo VPN scripts. I followed a tuturoial on GitHub to deploy an Algo server, configure VPN clients, create/delete users, and set up a tunnel by using WireGaurd.
   <img src="AlgoVPN.PNG">
-  
-<br/>  
-
 </details>
-  
 
 <details>
 <summary>PowerBI</summary>
