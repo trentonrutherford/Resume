@@ -26,7 +26,7 @@ Ter759@utulsa.edu
 832-338-2862
 
 
-## Skills and Certifications
+# Skills and Certifications
 
 
 
