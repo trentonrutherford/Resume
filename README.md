@@ -83,7 +83,7 @@ Using Github, I was able to completed a few different courses such as First Day 
 <summary>PowerBI</summary>
 <br/> 
 <span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
-<br/>
+
 
 I was able to take an online course using edX called Analyzing and Visualizing Data with Power BI. It covered the topic list pictured below and taaught me how Power BI is used in the workplace and why it is such an important tool. I was able to figure out how to import data into Power BI and what the interface of the application looks like. After learning the basics, I was able to get in some real practice as well. The courses I completed are listed below. 
     
@@ -98,7 +98,7 @@ I was able to take an online course using edX called Analyzing and Visualizing D
 I also was able to do an analysis of my own called Retail Analysis and after going through all of the data provided, I came up with my own dashboard. Below is a link to a video that has a deeper explanaition for my Dashboard and why I did what I did. 
  <li> <a href="https://www.youtube.com/watch?v=SpcjCcQsoU4&t=2s">Dashboard Video </a>  </li>
 <br/>
-<br/>
+
 
 
 </details> 
@@ -106,7 +106,7 @@ I also was able to do an analysis of my own called Retail Analysis and after goi
 <details><summary>Automation Anywhere</summary>
 <br/> 
 <span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
-<br/>
+
 
 <ul>
 <li> For this task I was able to take a closer look at robotic proces automation. I was able to learn about the different types of bots out there and the different use cases for each. Some of the other topics covered FEasibility Aanalaysis, ROI Analysis, and Bot Development. I never realized how much work is put into figuring out the requirments and justifications of a bot before it can be worked on</li>
@@ -122,7 +122,7 @@ I also was able to do an analysis of my own called Retail Analysis and after goi
 <details><summary>Amazon Web Services (AWS)</summary>
 <br/> 
 <span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
-<br/>
+
  
  I completed the AWS Essentials course on Linux Academy as an introduction to core AWS services. I created and managed the security of my own AWS account using IAM and got exposure to many of the other features AWS has to offer such as bulk storage and object versioning/lifecycling in S3, SQL/non-SQL based database services in RDS and DynamoDB (respectively), and cloud computing instances with EC2. Through the training's use of an overarching example (referred to as "Project Omega"), I also understand how these services can be used in conjunction with one another to create solutions to a vast array of professional issues. Getting an understanding and familairity with AWS is really important because of how big it is and the fact that almost every big company is using it in one way or another.
  Here are the main topics covered in the course:    
@@ -147,7 +147,7 @@ After completing the AWS Essentials course, I was able to do a few tutiorials th
  <img src="AWS VPN.png">
  
 <br/>
-<br/>
+
 </details>
 
 
