@@ -14,7 +14,7 @@
 
 <h2> Education</h2>
 
-University of Tulsa - Tulsa, OK    <img src="kingston logo.jpg" alt="kingston logo" align="right" height="140px" width="210px">    <img src="utulsa.jpg" alt="tulsa logo" align="right" height="190px" width="210px">
+University of Tulsa - Tulsa, OK    <img src="kingston logo.jpg" alt="kingston logo" align="right" height="140px" width="210px">    <img src="utulsa.jpg" alt="tulsa logo" align="right" height="145px" width="170px">
 
 Kingston University - London, United Kingdom 
 
