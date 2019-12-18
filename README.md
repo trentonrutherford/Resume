@@ -32,7 +32,7 @@ Ter759@utulsa.edu
 
 <details>
 <summary>Github</summary>
-
+<br>
 <span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
 
 Using Github, I was able to completed a few different courses such as First Day on Github and First Week on Github (pictured below). Both of these helped build a familarity with Github and understand how to create and manage pull requests, and how to create and host my own pages. 
@@ -43,7 +43,7 @@ Using Github, I was able to completed a few different courses such as First Day 
 
 <img src="First Week on Github.png" alt="Week 1">
 
-
+</br>
 </details>
 
 <details>
