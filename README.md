@@ -30,7 +30,7 @@ Ter759@utulsa.edu
 
 
 
-<summary>Github</summary>
+## Github
 <br>
 <span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
 
@@ -48,7 +48,7 @@ Using Github, I was able to completed a few different courses such as First Day 
 
 
 
-<summary>Linux</summary>
+## Linux
 <br>
 <span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
 
