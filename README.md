@@ -116,7 +116,6 @@ I completed the following courses in the <a href="https://lab.github.com/courses
 
 <img src="AA Applying Bots.PNG" alt="Applying bots">
 <img src="AA Managing RPA Lifecycle.PNG" alt="AA Managing RPA">
-<img src="Automation Anywhere.PNG" alt="AA">
 </details>
 <br>
 
