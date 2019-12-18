@@ -31,45 +31,29 @@ Ter759@utulsa.edu
 
 Please click on the drop down arrows below for more information on each skillset.
 
+<details>
+<summary>Github</span></summary>
+<br/>
+<span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
+<br/>
+Using Github, I was able to completed a few different courses such as First Day on Github and First Week on Github (pictured below). Both of these helped build a familarity with Github and understand how to create and manage pull requests, and how to create and host my own pages. 
 
-<details><summary>GitHub</summary>
 
-<h5> Description</h5>  
-<br>
-<ul>
-<li>Fundamentals of distributed version control including creating, reviewing and approving pull requests.
-<li>An introduction to source code management including task management, bug tracking and documentation.
-<li>The use of Markdown and HTML to format webpages in order to display items held in Github repositories.
-<li>Review of workflow management including workflow automation through GitHub Apps and workflow security.
-</ul>
-I completed the following courses in the <a href="https://lab.github.com/courses">GitHub Learning Lab</a>. These courses taught me how to stand up static pages, create and manage pull requests, facilitate collaboration, and more. 
-<br>
-  
-<h4>Courses:</h4>
-<ul>
-<li>First Day on GitHub</li>
-<li>First Week on GitHub</li>
-<li>Introduction to GitHub</li>
-<li>Communicating using Markdown</li>
-<li>Introduction to HTML</li>
-<li>GitHub Pages</li>
-<li>Managing merge conflicts</li>
-<li>Community Starter Kit</li>
-<li>Uploading your project to GitHub</li>
-<li>Getting started with GitHub Apps</li>
-<li>Migrating your repository to GitHub</li>
-<li>Reviewing pull requests</li>
-<li>Securing your workflows</li>
-<li>Create a release based workflow</li>
-</ul>
-<br>
-</details>
-<br>
 
+<img src="First Day on Github.png" alt="Day 1">
+
+<img src="First Week on Github.png" alt="Week 1">
+<br/>
+<br/>
+<span style="font-family:futura; font-size:1.5em;">Projects & Experience</span>
+<br/>
+To practice the skills I learned in these courses, I created and maintained this technical skills resume on Github using markdown and html. This leveraged different skills such as html programming, uploading and inserting images, and commiting updates to the master branch. Most of my focus in creating this template was placed on taking the Jekyll template and customizing it. Github has a set of standard themes for webpages, so I was able to find the html file for the "architect" theme and make personal changes from there such as: adding my headshot and personal information to the sidebar, changing the default header (my repository name) to a customized title and subtitle, and formatting text within the body of the page.
+
+</details> 
 
 <details><summary>Linux</summary>
   
-<h5> Description</h5>
+
 <br>
   <ul>
   <li> On LinuxAcademy.com, I completed the course LPI Linux Essentials. Through this course, I learned the basics of the Linux comamnd lines including beginner commands along with their respective parameters, commands to change directories and modify files, commands to view system information, and commands to view and alter users and groups along with permissions. </li>
@@ -84,8 +68,7 @@ I completed the following courses in the <a href="https://lab.github.com/courses
 
   
 <details><summary>Power BI</summary>
-  
-<h5> Description</h5>
+
 <br>
 <ul>
   <li> I was able to take an online course using edX called Analyzing and Visualizing Data with Power BI. It covered the topic list pictured below and taaught me how Power BI is used in the workplace and why it is such an important tool.</li>
@@ -104,7 +87,7 @@ I completed the following courses in the <a href="https://lab.github.com/courses
   
 <details><summary>Automation Anywhere</summary>
   
-<h5> Description</h5>
+
 <ul>
 <li> For this task I was able to take a closer look at robotic proces automation. I was able to learn about the different types of bots out there and the different use cases for each. Some of the other topics covered FEasibility Aanalaysis, ROI Analysis, and Bot Development. I never realized how much work is put into figuring out the requirments and justifications of a bot before it can be worked on</li>
   </ul>
@@ -118,7 +101,7 @@ I completed the following courses in the <a href="https://lab.github.com/courses
 
 <details><summary>Amazon Web Services (AWS)</summary>
   
-<h5> Description</h5>
+
   
 </details>
 <br>
