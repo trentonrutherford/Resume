@@ -70,9 +70,12 @@ Using Github, I was able to completed a few different courses such as First Day 
   <li>Basic Security and Identifying User Types</li>
   <li>Managing File Permissions and Ownership</li>
   <li>Special Directories and Files</li>
-  <br>
-  <img src="Linux Certification.PNG" alt="confirm">
 
+  <img src="Linux Certification.PNG" alt="confirm">
+  
+<br/>
+<br/>
+    
 </details>
   
 
