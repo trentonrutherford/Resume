@@ -48,7 +48,7 @@ Using Github, I was able to completed a few different courses such as First Day 
 
 <details>
 <summary>Linux</summary>
-
+<br>
 <span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
 
 
@@ -75,12 +75,14 @@ Using Github, I was able to completed a few different courses such as First Day 
 Also on Linux, I used Virtual Box and Ubuntu to create my own VPN using Algo VPN scripts. I followed a tuturoial on GitHub to deploy an Algo server, configure VPN clients, create/delete users, and set up a tunnel by using WireGaurd.
   <img src="AlgoVPN.PNG">
   
+<br/>  
+
 </details>
   
 
 <details>
 <summary>PowerBI</summary>
-
+<br>
 <span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
 
 
@@ -97,13 +99,14 @@ I was able to take an online course using edX called Analyzing and Visualizing D
 I also was able to do an analysis of my own called Retail Analysis and after going through all of the data provided, I came up with my own dashboard. Below is a link to a video that has a deeper explanaition for my Dashboard and why I did what I did. 
  <li> <a href="https://www.youtube.com/watch?v=SpcjCcQsoU4&t=2s">Dashboard Video </a>  </li>
 
-
+<br/>
 
 
 </details> 
   
 <details><summary>Automation Anywhere</summary>
 
+<br>
 <span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
 
 
@@ -115,11 +118,13 @@ I also was able to do an analysis of my own called Retail Analysis and after goi
   <li> This course also covered Robotic Process Management. The focus on this was mainly what it was like to be in charge of an RPA project. It talked about how a manager should be preparing for and understanding the needs of the project. It is very important to full understand what is being built and why it is necessary before any development can start. </li>
  </ul>
 <img src="AA Managing RPA Lifecycle.PNG" alt="AA Managing RPA">
+
+<br/>
 </details>
 
 
 <details><summary>Amazon Web Services (AWS)</summary>
-
+<br>
 <span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
 
  
@@ -145,6 +150,7 @@ After completing the AWS Essentials course, I was able to do a few tutiorials th
 
  <img src="AWS VPN.png">
  
+ <br/>
 
 
 </details>
