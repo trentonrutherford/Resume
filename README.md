@@ -32,7 +32,7 @@ Ter759@utulsa.edu
 Please click on the drop down arrows below for more information on each skillset.
 
 <details>
-<summary>Github</span></summary>
+<summary>Github</summary>
 <br/>
 <span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
 <br/>
@@ -51,25 +51,38 @@ To practice the skills I learned in these courses, I created and maintained this
 
 </details> 
 
-<details><summary>Linux</summary>
-  
+<details>
+<summary>Linux</summary>
+<br/> 
+<span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
+<br/>
 
-<br>
-  <ul>
-  <li> On LinuxAcademy.com, I completed the course LPI Linux Essentials. Through this course, I learned the basics of the Linux comamnd lines including beginner commands along with their respective parameters, commands to change directories and modify files, commands to view system information, and commands to view and alter users and groups along with permissions. </li>
-  <li>Also on Linux, I used Virtual Box and Ubuntu to create my own VPN using Algo VPN scripts. I followed a tuturoial provided by trailofbits on GitHub. Through the tutorial provided, I was able to deploy an Algo server, configure VPN clients, create/delete users, and set up a tunnel by using WireGaurd.</li>
-  </ul>
+
+ On LinuxAcademy, I completed the course LPI Linux Essentials. Through this course, I learned the basics of the Linux comamnd lines including beginner commands along with their respective parameters, commands to change directories and modify files, commands to view system information, and commands to view and alter users and groups along with permissions. 
+ Also on Linux, I used Virtual Box and Ubuntu to create my own VPN using Algo VPN scripts. I followed a tuturoial provided by trailofbits on GitHub. Through the tutorial provided, I was able to deploy an Algo server, configure VPN clients, create/delete users, and set up a tunnel by using WireGaurd.
+ Some of the main topics for this course include:
+ <ul>
+  <li>Major Open-Source Applications</li>
+  <li>Open-Source Software and Licensing</li>
+  <li>Command Line Basics</li>
+  <li>Using Directories and Listing Files</li>
+  <li>Creating, Moving, and Deleting Files</li>
+  <li> Archiving Files on the Command Line</li>
+  <li>Searching and Extracting Data from Files</li>
+  <li>Choosing an Operating System</li>
+  <li>Your Computer on the Network</li>
+  <li>Basic Security and Identifying User Types</li>
+  <li>Managing File Permissions and Ownership</li>
+  <li>Special Directories and Files</li>
   <br>
   <img src="Linux Certification.PNG" alt="confirm">
-<br>
-<br>
+<br/>
+<br/>
 </details>
-<br>
-
   
 
 <details>
-<summary>PowerBI</span></summary>
+<summary>PowerBI</summary>
 <br/> 
 <span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
 <br/>
