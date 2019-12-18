@@ -11,7 +11,7 @@
 
 
 
-<h2> Education</h2>
+# Education
 
 University of Tulsa - Tulsa, OK    <img src="kingston logo.jpg" alt="kingston logo" align="right" height="145px" width="210px">    <img src="utulsa.jpg" alt="tulsa logo" align="right" height="145px" width="170px">
 
@@ -31,7 +31,7 @@ Ter759@utulsa.edu
 
 
 ## Github
-<br>
+
 <span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
 
 Using Github, I was able to completed a few different courses such as First Day on Github and First Week on Github (pictured below). Both of these helped build a familarity with Github and understand how to create and manage pull requests, and how to create and host my own pages. 
@@ -42,14 +42,14 @@ Using Github, I was able to completed a few different courses such as First Day 
 
 <img src="First Week on Github.png" alt="Week 1">
 
-<br/>
+
 
 
 
 
 
 ## Linux
-<br>
+
 <span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
 
 
@@ -80,9 +80,8 @@ Also on Linux, I used Virtual Box and Ubuntu to create my own VPN using Algo VPN
 
 
 
-<details>
-<summary>PowerBI</summary>
-<br>
+## PowerBI
+
 <span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
 
 
@@ -99,14 +98,11 @@ I was able to take an online course using edX called Analyzing and Visualizing D
 I also was able to do an analysis of my own called Retail Analysis and after going through all of the data provided, I came up with my own dashboard. Below is a link to a video that has a deeper explanaition for my Dashboard and why I did what I did. 
  <li> <a href="https://www.youtube.com/watch?v=SpcjCcQsoU4&t=2s">Dashboard Video </a>  </li>
 
-<br/>
 
 
-</details> 
-  
-<details><summary>Automation Anywhere</summary>
+## Automation Anywhere
 
-<br>
+
 <span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
 
 
@@ -119,12 +115,11 @@ I also was able to do an analysis of my own called Retail Analysis and after goi
  </ul>
 <img src="AA Managing RPA Lifecycle.PNG" alt="AA Managing RPA">
 
-<br/>
-</details>
 
 
-<details><summary>Amazon Web Services (AWS)</summary>
-<br>
+
+## Amazon Web Services (AWS)
+
 <span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
 
  
@@ -150,9 +145,6 @@ After completing the AWS Essentials course, I was able to do a few tutiorials th
 
  <img src="AWS VPN.png">
  
- <br/>
 
-
-</details>
 
 
