@@ -1,7 +1,7 @@
 # Technical Skills Resume
 
 
-<img src="headshot.jpg" alt="Profile picture" width="240" height="175" border-radius="50" align="left">
+
 
 
 
@@ -14,8 +14,7 @@
 
 <h2> Education</h2>
 
-University of Tulsa - Tulsa, OK                                     
-                                                                                          <img src="utulsa.jpg" alt="tulsa logo">
+University of Tulsa - Tulsa, OK                                      <img src="utulsa.jpg" alt="tulsa logo" align="left">
 
 Kingston University - London, United Kingdom 
 
