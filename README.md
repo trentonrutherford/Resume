@@ -54,7 +54,7 @@ Using Github, I was able to completed a few different courses such as First Day 
 
 
  On LinuxAcademy, I completed the course LPI Linux Essentials. Through this course, I learned the basics of the Linux comamnd lines including beginner commands along with their respective parameters, commands to change directories and modify files, commands to view system information, and commands to view and alter users and groups along with permissions. 
- Also on Linux, I used Virtual Box and Ubuntu to create my own VPN using Algo VPN scripts. I followed a tuturoial provided by trailofbits on GitHub. Through the tutorial provided, I was able to deploy an Algo server, configure VPN clients, create/delete users, and set up a tunnel by using WireGaurd.
+
  Some of the main topics for this course include:
  <ul>
   <li>Major Open-Source Applications</li>
@@ -71,6 +71,8 @@ Using Github, I was able to completed a few different courses such as First Day 
   <li>Special Directories and Files</li>
 
   <img src="Linux Certification.PNG" alt="confirm">
+  
+Also on Linux, I used Virtual Box and Ubuntu to create my own VPN using Algo VPN scripts. I followed a tuturoial on GitHub to deploy an Algo server, configure VPN clients, create/delete users, and set up a tunnel by using WireGaurd.
   <img src="AlgoVPN.PNG">
   
 <br>
